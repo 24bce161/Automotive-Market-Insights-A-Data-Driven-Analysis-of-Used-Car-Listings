@@ -19,8 +19,3 @@ This project focuses on performing comprehensive Exploratory Data Analysis (EDA)
 * **Depreciation Trends:** Visualized the inverse relationship between odometer readings/vehicle age and market value.
 * **Geographic Hotspots:** Identified the top states for used car sales and mapped regional pricing differences.
 * **Brand Valuation:** Highlighted the top "value-for-money" makes for vehicles in excellent condition and calculated average selling prices across different manufacturers.
-
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/24bce161/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
